@@ -1,2 +1,5 @@
 # docker-httpie
-dorcker for httpie
+docker for httpie
+
+		docker run -it httpie "httpie http://dotmarks.net"
+
