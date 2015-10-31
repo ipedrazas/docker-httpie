@@ -1,5 +1,10 @@
-# docker-httpie
-docker for httpie
+docker-httpie
+=============
 
-		docker run -it httpie "httpie http://dotmarks.net"
+docker image for httpie.
 
+    docker run httpie dotmarks.net
+
+Or if you want colors:
+
+    docker run -t httpie dotmarks.net
